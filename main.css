@@ -1,0 +1,17 @@
+.success-message {
+    background-color: rgb(12, 214, 12);
+    font-size: 12px;
+    padding: 8px;
+    color: white;
+    margin-bottom: 8px;
+    display: none;
+}
+
+.error-message {
+    background-color: rgb(211, 42, 42);
+    font-size: 12px;
+    padding: 8px;
+    color: white;
+    margin-bottom: 8px;
+    display: none;
+}
